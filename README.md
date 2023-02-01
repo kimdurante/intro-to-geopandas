@@ -1,1 +1,1 @@
-# intro-to-geopandas
+# Introduction to GeoPandas
